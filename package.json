@@ -1,0 +1,21 @@
+{
+  "name": "zeta-admin",
+  "version": "3.0.0",
+  "description": "Zeta Admin v3 - Roblox admin system with fly, speed, tp, kick, ban etc.",
+  "main": "main.lua",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sqew-cpu/Zeta-Admin.git"
+  },
+  "keywords": [
+    "roblox",
+    "admin",
+    "fly",
+    "tp",
+    "speed",
+    "kick",
+    "ban"
+  ],
+  "author": "Sqew-cpu",
+  "license": "MIT"
+}
