@@ -1,0 +1,15 @@
+---
+
+### 🚫 4. `.gitignore`
+
+```gitignore
+# Lua projeleri için önerilen ignore dosyaları
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+node_modules/
+*.vscode
